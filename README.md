@@ -1,1 +1,1 @@
-# BridgeLabz_CG_2115000862
+We have solved both assignments
