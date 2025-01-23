@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class FactorialCalculator {
     public static void main(String[] args) {
@@ -13,7 +14,7 @@ public class FactorialCalculator {
             long fact = 1;
 
             // Compute the factorial using a for loop
-            for (int i = 1; i <= number; i++) {
+            for (int i = 2; i <= number; i++) {
                 fact *= i; // Multiply factorial by i
             }
             System.out.println("The factorial of " + number + " is: " + fact);
