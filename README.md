@@ -13,4 +13,6 @@ Day 12 - (Dated :- 01-02-25) :- Studied about the proper format for Git commits 
 Day 13 - (Dated :- 03-02-25) :- I worked on understanding and applying key Java concepts. I explored the static keyword to define class-level methods and variables. I also practiced using the final keyword to create constants and prevent method or class modification. Additionally, I gained experience with the instanceof operator to check the type of an object at runtime.  
 Day 14 - (Dated :- 04-02-25) :- I studied the differences between classes and objects in Java, examining class diagrams for structure, object diagrams for instances, and sequence diagrams to visualize object interactions over time.  
 Day 15 - (Dated :- 05-02-25) :- I worked on understanding and applying Object-Oriented Design principles. I created Class Diagrams, Object Diagrams, and Sequence Diagrams to represent system components and their interactions effectively.  
-Day 16 - (Dated :- 06-02-25) :- 
+Day 16 - (Dated :- 06-02-25) :- Today was the review day; I provided my feedback and revised all study material up to week 2.
+Day 17 - (Dated :- 07-02-25) :- I studied and solved problems on inheritance in Java, including single-level, multilevel, and hierarchical inheritance, method overriding, constructor inheritance, polymorphism, and access modifiers. This enhanced my understanding of code reusability, dynamic behavior, and access control in inheritance.  
+Day 18 - 
