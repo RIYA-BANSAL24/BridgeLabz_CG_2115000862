@@ -15,4 +15,5 @@ Day 14 - (Dated :- 04-02-25) :- I studied the differences between classes and ob
 Day 15 - (Dated :- 05-02-25) :- I worked on understanding and applying Object-Oriented Design principles. I created Class Diagrams, Object Diagrams, and Sequence Diagrams to represent system components and their interactions effectively.  
 Day 16 - (Dated :- 06-02-25) :- Today was the review day; I provided my feedback and revised all study material up to week 2.  
 Day 17 - (Dated :- 07-02-25) :- I studied and solved problems on inheritance in Java, including single-level, multilevel, and hierarchical inheritance, method overriding, constructor inheritance, polymorphism, and access modifiers. This enhanced my understanding of code reusability, dynamic behavior, and access control in inheritance.  
-Day 18 - (Dated :- 10-02-25) :- 
+Day 18 - (Dated :- 10-02-25) :- Today, we solved questions on key object-oriented programming concepts, including encapsulation, which involves restricting access to object components, polymorphism that allows methods to have multiple forms, interfaces that define contracts for classes, and abstract classes that provide a blueprint for subclasses.  
+Day 19 - (Dated :- 11-02-25) :- 
