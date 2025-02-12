@@ -16,4 +16,6 @@ Day 15 - (Dated :- 05-02-25) :- I worked on understanding and applying Object-Or
 Day 16 - (Dated :- 06-02-25) :- Today was the review day; I provided my feedback and revised all study material up to week 2.  
 Day 17 - (Dated :- 07-02-25) :- I studied and solved problems on inheritance in Java, including single-level, multilevel, and hierarchical inheritance, method overriding, constructor inheritance, polymorphism, and access modifiers. This enhanced my understanding of code reusability, dynamic behavior, and access control in inheritance.  
 Day 18 - (Dated :- 10-02-25) :- Today, we solved questions on key object-oriented programming concepts, including encapsulation, which involves restricting access to object components, polymorphism that allows methods to have multiple forms, interfaces that define contracts for classes, and abstract classes that provide a blueprint for subclasses.  
-Day 19 - (Dated :- 11-02-25) :- 
+Day 19 - (Dated :- 11-02-25) :- Today, I reviewed Week 2 and revised all topics related to OOP concepts and linked lists.  
+Day 20 - (Dated :- 12-02-25) :- I studied and completed assignments on the following topics: Single Linked List, Double Linked List, and Circular Linked List. These covered their structures, operations, and applications.  
+Day 21 - (Dated :- 13-02-25) :-
