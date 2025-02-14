@@ -19,4 +19,5 @@ Day 18 - (Dated :- 10-02-25) :- Today, we solved questions on key object-oriente
 Day 19 - (Dated :- 11-02-25) :- Today, I reviewed Week 2 and revised all topics related to OOP concepts and linked lists.  
 Day 20 - (Dated :- 12-02-25) :- I studied and completed assignments on the following topics: Single Linked List, Double Linked List, and Circular Linked List. These covered their structures, operations, and applications.  
 Day 21 - (Dated :- 13-02-25) :- Today, I studied Stack, Queue, and HashMap along with Hashing Functions and completed the assignment based on these topics.  
-Day 22 - (Dated :- 14-02-25) :-
+Day 22 - (Dated :- 14-02-25) :- We studied various sorting algorithms, including Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort, and applied our understanding by solving related assignments.  
+Day 23 - (Dated :- 15-02-25) :- 
