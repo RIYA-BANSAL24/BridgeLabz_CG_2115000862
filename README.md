@@ -25,4 +25,5 @@ Day 24 - (Dated :- 17-02-25) :- Today, I studied runtime analysis and its import
 Day 25 - (Dated :- 18-02-25) :- I studied **Generics** in Java, covering **Type Parameters** for flexibility, **Generic Classes** and **Methods** for reusability, **Bounded Type Parameters** for restricted types, and **Wildcards** for handling unknown types. I reinforced these concepts by solving problems.  
 Day 26 - (Dated :- 19-02-25) :- I studied the **Java Collections Framework**, covering its **hierarchy, key interfaces (List, Set, Queue, Deque, Map), implementations, comparisons, and best practices**. I explored real-world use cases and reinforced my understanding by solving related questions.  
 Day 27 - (Dated :- 20-02-25) :-  Today, I reviewed Week 3 and revised all topics related to OOP concepts and linked lists.  
-Day 28 - (Dated :- 21-02-25) :- 
+Day 28 - (Dated :- 21-02-25) :- Java I/O Streams facilitate data transfer via File, Object, ByteArray, Buffered, and Reader/Writer Streams. Key practices include using `try-with-resources`, optimizing buffering, and closing streams properly. Mastery comes through study and problem-solving.  
+Day 29 - (Dated :- 
