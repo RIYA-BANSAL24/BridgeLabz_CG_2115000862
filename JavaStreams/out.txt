@@ -1,0 +1,5 @@
+// file handling
+pinky is a nice girl. she is very clever.
+
+// buffered streams
+you are so beautiful.
