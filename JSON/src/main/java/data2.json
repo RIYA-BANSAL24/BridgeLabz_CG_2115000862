@@ -1,0 +1,10 @@
+{
+  "name": "Riya Bansal",
+  "email": "riyabansal3365@gmail.com",
+  "age": 21,
+  "address": {
+    "city": "Kosi Kalan",
+    "pin": "281403"
+  },
+  "skills": ["Java", "BootStrap", "SQL"]
+}
